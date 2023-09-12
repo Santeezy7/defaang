@@ -1,4 +1,4 @@
-# Contributing
+# Contributing Express
 
 defaang lives through contributions from the community. When contributing to this repository, please first discuss the change you wish to make via an issue, Discord, or any other method with the maintainers of this repository before making a change.
 
